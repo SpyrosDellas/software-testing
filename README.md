@@ -1,0 +1,1 @@
+### Coursework for "Software Testing" course by Udacity
